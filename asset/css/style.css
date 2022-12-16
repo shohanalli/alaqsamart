@@ -1,0 +1,120 @@
+
+
+.btn{
+    border-left: 0px;
+    border-radius: 15px;
+    
+}
+.form-control{
+    border-right:none;
+    border-radius: 15px;
+    
+}
+/* .logo{
+    width: 100%;
+} */
+.card-img-top{
+    width: 100%;
+}
+.left-hero{
+    width: 80%;
+}
+.right-hero{
+    width: 40%;
+}
+.item-hero{
+    width: 100%;
+    height: 200px;
+}
+.item-hero-img{
+    width: 100%;
+    height: 100%;
+}
+.product-r{
+    margin-top: -100px;
+   
+}
+.ct{
+    padding-bottom: 60px;
+    margin-top: -80px;
+    color: rgb(255, 255, 255);
+    
+}
+
+.shopnow {
+    margin: auto;
+    display: block;
+    margin-left: 10px;
+
+}
+
+.owl-theme .owl-nav{
+    display: none;
+}
+.owl-dots{
+    display: none;
+}
+.newsletter{
+    padding: 40px 0;
+    background-color: #D70037;
+    color: white;
+    overflow-x: hidden;
+}
+#navcolor{
+background-color:  #4FA650;
+
+}
+
+
+#navcontainer{
+    position: sticky;
+  top: 0;
+    z-index: 2;
+  
+}
+
+
+
+
+
+
+
+@media screen and (min-width: 768px){
+    .signIn{
+        display: none;
+    }
+    
+}
+
+
+
+
+@media screen and (max-width: 767px) {
+    .newsletter p{
+        display: none;
+    } 
+  
+   .notice{
+    display: none;
+   }
+   .input-group{
+    display: none;
+   }
+.Brands{
+    display: none; 
+}
+#date{
+    font-size: 12px;
+}
+#navcolor{
+    background-color: #D70037;
+   
+}
+
+
+
+
+}
+
+
+
